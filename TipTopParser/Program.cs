@@ -123,9 +123,10 @@ namespace TipTopParser
 
         class ProductInformation
         {
+            public int id;
             public string name;
             public string price;
-            public string discription;
+            //public string discription;
             public string img;
             public Dictionary<string, string> generalInfo;
             public Dictionary<string, string> attributes;
@@ -135,6 +136,14 @@ namespace TipTopParser
                 generalInfo = new Dictionary<string, string>();
                 attributes = new Dictionary<string, string>();
             }
+        }
+
+        class category
+        {
+            
+
+
+
         }
     }
 }
