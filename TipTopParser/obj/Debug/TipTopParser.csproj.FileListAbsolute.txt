@@ -1,0 +1,6 @@
+D:\Projects\TipTopParser\TipTopParser\bin\Debug\TipTopParser.exe.config
+D:\Projects\TipTopParser\TipTopParser\bin\Debug\TipTopParser.exe
+D:\Projects\TipTopParser\TipTopParser\bin\Debug\TipTopParser.pdb
+D:\Projects\TipTopParser\TipTopParser\obj\Debug\TipTopParser.csprojResolveAssemblyReference.cache
+D:\Projects\TipTopParser\TipTopParser\obj\Debug\TipTopParser.exe
+D:\Projects\TipTopParser\TipTopParser\obj\Debug\TipTopParser.pdb
